@@ -3,17 +3,9 @@
   "site_title": "pius's blog",
   "site_description": "blog for a dog",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "dog"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "none",
+  "github_account": "nucle0tides"
 }
